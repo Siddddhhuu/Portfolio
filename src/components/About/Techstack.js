@@ -30,10 +30,7 @@ function Techstack() {
       </Col>
       {/* <Col xs={4} md={2} className="tech-icons">
         <SiSolidity />
-      </Col> */}
-      <Col xs={4} md={2} className="tech-icons">
-        <godb />
-      </Col>
+      </Col>  */}
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
