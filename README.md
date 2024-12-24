@@ -57,15 +57,10 @@ To get started with this project, you’ll need to have **Node.js** and **Git** 
 
 ## 🤝 Contributing  
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#) *(Replace with your issues link)*.  
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page].  
 
 ---
 
-## 📄 License  
-
-This project is licensed under the MIT License - see the [LICENSE.md](#) *(Replace with your LICENSE file link)* for details.
-
----
 
 ## 👏 Acknowledgments  
 
