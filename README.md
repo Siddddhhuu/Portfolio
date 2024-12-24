@@ -33,18 +33,11 @@ To get started with this project, you’ll need to have **Node.js** and **Git** 
 
 ## ⚙️ Installation and Setup Instructions  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```  
-
-2. Install dependencies:  
+1. Install dependencies:  
    ```bash
    npm install
    ```  
-
-3. Run the development server:  
+2. Run the development server:  
    ```bash
    npm start
    ```  
