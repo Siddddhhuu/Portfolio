@@ -1,6 +1,6 @@
 <!-- By Sam Herbert (@sherb), for everyone. More @ http://goo.gl/7AJzbL -->
 <!-- Todo: add easing -->
-<svg width="135" height="140" viewBox="0 0 135 140" xmlns="http://www.w3.org/2000/svg" fill="none">
+<svg width="90" height="90" viewBox="0 0 135 140" xmlns="http://www.w3.org/2000/svg" fill="none">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#d38bfc;stop-opacity:1" />
