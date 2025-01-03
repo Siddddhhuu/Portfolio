@@ -10,6 +10,7 @@ import {
   DiGit,
   DiCss3,
   DiHtml5,
+  DiMysql,
 } from "react-icons/di";
 import {
   SiSolidity,
@@ -28,9 +29,9 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
+      <Col xs={4} md={2} className="tech-icons">
         <SiSolidity />
-      </Col>  */}
+      </Col> 
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
@@ -42,6 +43,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiMysql />
       </Col>
     </Row>
   );
