@@ -22,7 +22,7 @@ function Home2() {
               I have been on an incredible journey of learning and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I have knowlegde in classics like
               <i>
                 <b className="purple"> React , JavaScript, HTML, CSS, Python </ b>and robust backend solutions with {" "} <b className="purple">MongoDB and SQL</b>
               </i>
